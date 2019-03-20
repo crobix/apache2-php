@@ -1,8 +1,8 @@
 ##
-# Jb Nahan PHP 5.6 + Apache 2 container
+# Jb Nahan PHP 7.0 + Apache 2 container
 ##
 
-FROM        	macintoshplus/php:php70
+FROM        	crobix/php:php70
 MAINTAINER 	Jean-Baptiste Nahan <jean-baptiste@nahan.fr>
 
 # Supervisor
