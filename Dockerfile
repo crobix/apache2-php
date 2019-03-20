@@ -2,7 +2,7 @@
 # Jb Nahan PHP 7.1 + Apache 2 container
 ##
 
-FROM        	macintoshplus/php:php71
+FROM        	crobix/php:php71
 MAINTAINER 	Jean-Baptiste Nahan <jean-baptiste@nahan.fr>
 
 # Supervisor
