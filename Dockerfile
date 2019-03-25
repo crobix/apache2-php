@@ -3,7 +3,7 @@
 ##
 
 FROM        	crobix/php:php71
-MAINTAINER 	Jean-Baptiste Nahan <jean-baptiste@nahan.fr>
+MAINTAINER 	Loïc AUDU <audu382@gmail.com>
 
 # Supervisor
 RUN 		apt-get install -y supervisor
