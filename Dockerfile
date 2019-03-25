@@ -1,5 +1,5 @@
 ##
-# Jb Nahan PHP 5.6 + Apache 2 container
+# Loïc AUDU PHP 5.6 + Apache 2 container
 ##
 
 FROM        	crobix/php:php56
