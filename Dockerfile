@@ -1,9 +1,9 @@
 ##
-# Jb Nahan PHP 7.2 + Apache 2 container
+# Loïc AUDU PHP 7.2 + Apache 2 container
 ##
 
 FROM        	crobix/php:php72
-MAINTAINER 	Jean-Baptiste Nahan <jean-baptiste@nahan.fr>
+MAINTAINER 	Loïc AUDU <audu382@gmail.com>
 
 # Supervisor
 RUN 		apt-get install -y supervisor
