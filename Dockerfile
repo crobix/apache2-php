@@ -1,5 +1,5 @@
 ##
-# Jb Nahan PHP 7.1 + Apache 2 container
+# Loïc AUDU PHP 7.1 + Apache 2 container
 ##
 
 FROM        	crobix/php:php71
